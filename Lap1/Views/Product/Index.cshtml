@@ -1,0 +1,52 @@
+﻿@{
+    var products = new[]
+    {
+        new {
+            Id = 1,
+            Name = "PlayStation5",
+            Price = "600,000 đ",
+            CreatedAt = "25-12-2020",
+            Image = "/images/bag.jpg"
+        },
+        new {
+            Id = 2,
+            Name = "XboxSeries X",
+            Price = "700,000 đ",
+            CreatedAt = "25-12-2020",
+            Image = "/images/bag.jpg"
+        },
+        new {
+            Id = 3,
+            Name = "Nintendo Switch 2",
+            Price = "550,000 đ",
+            CreatedAt = "25-12-2020",
+            Image = "/images/bag.jpg"
+        }
+    };
+}
+<h1>Quản lý sản phẩm</h1>
+<table class="product-table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Created At</th>
+        <th>Image</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in products)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.CreatedAt</td>
+            <td>
+                <img src="@item.Image" width="60">
+            </td>
+            <td>
+                <button>View</button>
+            </td>
+        </tr>
+    }
+</table>

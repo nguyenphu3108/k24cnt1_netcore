@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLession1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90156860-2A95-4E51-A507-0EE9D3489223}|TvcLession1\\TvcLession1.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvclession1\\tvclession1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90156860-2A95-4E51-A507-0EE9D3489223}|TvcLession1\\TvcLession1.csproj|solutionrelative:tvclession1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA4BF797-83D7-4C2D-9C1D-71B053E368AC}|..\\Lap1\\Lap1.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\lap1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4BF797-83D7-4C2D-9C1D-71B053E368AC}|..\\Lap1\\Lap1.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\lap1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4BF797-83D7-4C2D-9C1D-71B053E368AC}|..\\Lap1\\Lap1.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\lap1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4BF797-83D7-4C2D-9C1D-71B053E368AC}|..\\Lap1\\Lap1.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\lap1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4BF797-83D7-4C2D-9C1D-71B053E368AC}|..\\Lap1\\Lap1.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\lap1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +25,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Lap1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Lap1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T14:07:12.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLession1\\TvcLession1\\Program.cs",
-              "RelativeDocumentMoniker": "TvcLession1\\Program.cs",
-              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLession1\\TvcLession1\\Program.cs",
-              "RelativeToolTip": "TvcLession1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Lap1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "..\\Lap1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T14:04:01.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\Lap1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\Lap1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T08:29:54.441Z",
+              "WhenOpened": "2026-08-21T13:53:12.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\Lap1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\Lap1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-21T13:48:26.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Lap1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Lap1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T13:38:54.266Z",
               "EditorCaption": ""
             }
           ]
