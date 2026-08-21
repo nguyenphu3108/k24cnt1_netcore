@@ -37,8 +37,7 @@
               "RelativeToolTip": "..\\Lap1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-21T14:07:12.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T14:07:12.532Z"
             },
             {
               "$type": "Document",
@@ -48,7 +47,7 @@
               "RelativeDocumentMoniker": "..\\Lap1\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "..\\Lap1\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-21T14:04:01.27Z",
               "EditorCaption": ""
@@ -63,8 +62,7 @@
               "RelativeToolTip": "..\\Lap1\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T13:53:12.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T13:53:12.199Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "..\\Lap1\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-21T13:48:26.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T13:48:26.603Z"
             },
             {
               "$type": "Document",
@@ -87,7 +84,7 @@
               "RelativeDocumentMoniker": "..\\Lap1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\Lap1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "..\\Lap1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-21T13:38:54.266Z",
               "EditorCaption": ""
