@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var tvcProduct = ViewBag.TvcProduct;
+    var tvcCategories = ViewBag.TvcCategories;
+    var selectedCategory = ViewBag.SelectedCategory ?? 0;
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2">
+            <div class="category-sidebar mt-4">
+                <h5 class="fw-bold mb-3">DANH MỤC</h5>
+                <ul class="list-unstyled">
+                    <li class="mb-2">
+                        <a asp-action="Index" asp-route-categoryId="0"
+                           class="text-decoration-none @(selectedCategory == 0 ? "fw-bold text-primary" : "text-dark")">
+                            Tất cả
+                        </a>
+                    </li>
+                    @foreach (var category in tvcCategories)
+                    {
+                        <li class="mb-2">
+                            <a asp-action="Index" asp-route-categoryId="@category.Id"
+                               class="text-decoration-none @(selectedCategory == category.Id ? "fw-bold text-primary" : "text-dark")">
+                                @category.Name
+                            </a>
+                        </li>
+                    }
+                </ul>
+                <hr />
+                <p class="text-muted small">@tvcProduct.Count sản phẩm</p>
+            </div>
+        </div>
+
+        <div class="col-md-10">
+            <div class="row">
+                @if (tvcProduct != null && tvcProduct.Count > 0) 
+                {
+                    @foreach (TvcProduct item in tvcProduct)
+                    {
+                        <div class="col-md-4 my-3">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="img">
+                                        <img src="@item.Image" alt="@item.Name" class="w-100" style="height: 200px; object-fit: cover;" />
+                                    </div>
+                                    <div class="">
+                                        <h3>@item.Name</h3>
+                                        <p>@item.Description</p>
+                                        <a asp-route="tvcSanpham" asp-route-id="@item.Id" class="btn btn-success btn-block">Chi Tiết Sản Phẩm</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="col-12 text-center py-5">
+                        <h4>Không có sản phẩm nào trong danh mục này</h4>
+                        <a asp-action="Index" class="btn btn-primary mt-3">Xem tất cả sản phẩm</a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

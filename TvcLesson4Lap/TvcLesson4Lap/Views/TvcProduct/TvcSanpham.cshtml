@@ -1,0 +1,61 @@
+﻿﻿
+    @{
+        ViewData["Title"] = "San Pham";
+
+        var product = ViewBag.TvcProduct as TvcProduct;
+    }
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="border p-5">
+                <img src="@product.Image" alt="@product.Name" class="w-100" />
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card p-5">
+                <h3>Name: @product.Name</h3>
+                <p>Price: @product.Price</p>
+                <p>Sale Price: @product.SalePrice</p>
+                <p>Description: @product.Description</p>
+                <p>Status: @product.Status</p>
+                <p>
+                    Category:
+                    @if (product.CategoryId == 1)
+                    {
+                        <text>Nhập Vai</text>
+                    }
+                    else if (product.CategoryId == 2)
+                    {
+                        <text>Thế giới mở</text>
+                    }
+                    else if (product.CategoryId == 3)
+                    {
+                        <text>Hành động</text>
+                    }
+                    else if (product.CategoryId == 4)
+                    {
+                        <text>Chiến thuật</text>
+                    }
+                    
+                    else if (product.CategoryId == 5)
+                    {
+                        <text>Đua xe</text>
+                    }
+                    else
+                    {
+                        <text>RPG</text>
+                    }
+                    
+
+                </p>
+                <p>Create At: @product.CreateAt</p>
+
+                <p>
+                    <a asp-asp-controller="TvcProduct" asp-action="Index" class="btn  btn-danger">
+                        Back to list
+                    </a>
+                </p>
+            </div>
+
+        </div>
+    </div>
