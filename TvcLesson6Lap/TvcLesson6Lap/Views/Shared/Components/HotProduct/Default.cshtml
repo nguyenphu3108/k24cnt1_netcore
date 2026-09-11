@@ -1,0 +1,23 @@
+﻿@model IEnumerable<TvcLesson6Lap.Models.Product>
+
+<div class="hot-product-section">
+    <div class="section-title">Sản phẩm Hot</div>
+    <div class="row g-3">
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="product-card">
+                        <img src="@item.ImageUrl" alt="@item.Name">
+                        <p class="product-name">@item.Name</p>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>Không có dữ liệu sản phẩm Hot.</p>
+        }
+    </div>
+</div>

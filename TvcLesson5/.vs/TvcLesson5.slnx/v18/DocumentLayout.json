@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "TvcLesson5\\Views\\Home\\RazorCode.cshtml",
               "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson5\\TvcLesson5\\Views\\Home\\RazorCode.cshtml",
               "RelativeToolTip": "TvcLesson5\\Views\\Home\\RazorCode.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-05T02:07:44.076Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "TvcLesson5\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-05T02:01:49.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T02:01:49.025Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "TvcLesson5\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T01:55:35.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T01:55:35.91Z"
             }
           ]
         }

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TvcLesson6Lap.Models.Product>
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="mb-4">
+    <div class="section-title">Sản phẩm mới nhất</div>
+    <div class="row g-3">
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="product-card">
+                        <img src="@item.ImageUrl" alt="@item.Name">
+                        <p class="product-name">@item.Name</p>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>Không có dữ liệu sản phẩm.</p>
+        }
+    </div>
+</div>
+
+@await Component.InvokeAsync("HotProduct")

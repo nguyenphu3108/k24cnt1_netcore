@@ -1,0 +1,13 @@
+﻿@model IEnumerable<TvcLesson6Lap.Models.Category>
+
+<div class="mb-4">
+    <div class="sidebar-title">Danh mục sản phẩm</div>
+    <ul class="sidebar-list">
+        @foreach (var item in Model)
+        {
+            <li>
+                <a href="#">@item.CategoryName</a>
+            </li>
+        }
+    </ul>
+</div>
