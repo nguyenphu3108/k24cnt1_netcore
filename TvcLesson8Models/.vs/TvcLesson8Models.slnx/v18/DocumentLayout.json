@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06471E81-B1C6-449A-AA8A-E13A9CDC2CF6}|TvcLesson8Models\\TvcLesson8Models.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvclesson8models\\tvclesson8models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{06471E81-B1C6-449A-AA8A-E13A9CDC2CF6}|TvcLesson8Models\\TvcLesson8Models.csproj|solutionrelative:tvclesson8models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6F3E8431-B1F1-436F-F0E8-696B5A2586BE}|TvcLesson8Models\\TvcLesson8Models.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvclesson8models\\tvclesson8models\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3E8431-B1F1-436F-F0E8-696B5A2586BE}|TvcLesson8Models\\TvcLesson8Models.csproj|solutionrelative:tvclesson8models\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3E8431-B1F1-436F-F0E8-696B5A2586BE}|TvcLesson8Models\\TvcLesson8Models.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvclesson8models\\tvclesson8models\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3E8431-B1F1-436F-F0E8-696B5A2586BE}|TvcLesson8Models\\TvcLesson8Models.csproj|solutionrelative:tvclesson8models\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3E8431-B1F1-436F-F0E8-696B5A2586BE}|TvcLesson8Models\\TvcLesson8Models.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvclesson8models\\tvclesson8models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F3E8431-B1F1-436F-F0E8-696B5A2586BE}|TvcLesson8Models\\TvcLesson8Models.csproj|solutionrelative:tvclesson8models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TvcLesson8Models\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TvcLesson8Models\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T01:01:15.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TvcLesson8Models\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TvcLesson8Models\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T01:01:13.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TvcLesson8Models\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Properties\\launchSettings.json*",
-              "RelativeToolTip": "TvcLesson8Models\\Properties\\launchSettings.json*",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TvcLesson8Models\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-16T16:08:57.689Z",

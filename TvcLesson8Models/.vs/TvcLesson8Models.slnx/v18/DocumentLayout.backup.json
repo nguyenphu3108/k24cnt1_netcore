@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06471E81-B1C6-449A-AA8A-E13A9CDC2CF6}|TvcLesson8Models\\TvcLesson8Models.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvclesson8models\\tvclesson8models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06471E81-B1C6-449A-AA8A-E13A9CDC2CF6}|TvcLesson8Models\\TvcLesson8Models.csproj|solutionrelative:tvclesson8models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TvcLesson8Models\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcLesson8Models\\TvcLesson8Models\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "TvcLesson8Models\\Properties\\launchSettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T16:08:57.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
