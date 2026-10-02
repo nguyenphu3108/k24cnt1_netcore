@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvck24cnt1lesson10\\tvck24cnt1lesson10\\controllers\\tvcmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|solutionrelative:tvck24cnt1lesson10\\controllers\\tvcmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvck24cnt1lesson10\\tvck24cnt1lesson10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|solutionrelative:tvck24cnt1lesson10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvck24cnt1lesson10\\tvck24cnt1lesson10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|solutionrelative:tvck24cnt1lesson10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvck24cnt1lesson10\\tvck24cnt1lesson10\\controllers\\tvcmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|solutionrelative:tvck24cnt1lesson10\\controllers\\tvcmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F3BC697-0BE1-4A25-92E2-CD6456413B6B}|TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10.csproj|c:\\study\\k24cnt-net\\k24cnt1_netcore\\tvck24cnt1lesson10\\tvck24cnt1lesson10\\models\\tvck24cnt1lesson10context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -67,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TvcMembersController.cs",
               "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10\\Controllers\\TvcMembersController.cs",
               "RelativeDocumentMoniker": "TvcK24Cnt1Lesson10\\Controllers\\TvcMembersController.cs",
               "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10\\Controllers\\TvcMembersController.cs",
               "RelativeToolTip": "TvcK24Cnt1Lesson10\\Controllers\\TvcMembersController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwJQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T16:29:56.39Z",
               "EditorCaption": ""
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10\\Program.cs",
               "RelativeDocumentMoniker": "TvcK24Cnt1Lesson10\\Program.cs",
@@ -106,12 +106,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10\\appsettings.json",
               "RelativeDocumentMoniker": "TvcK24Cnt1Lesson10\\appsettings.json",
-              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10\\appsettings.json*",
-              "RelativeToolTip": "TvcK24Cnt1Lesson10\\appsettings.json*",
+              "ToolTip": "C:\\Study\\K24CNT-NET\\k24cnt1_netcore\\TvcK24Cnt1Lesson10\\TvcK24Cnt1Lesson10\\appsettings.json",
+              "RelativeToolTip": "TvcK24Cnt1Lesson10\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-25T16:21:37.282Z",
